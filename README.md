@@ -79,6 +79,7 @@
 4. Destroy enemies and obstacles to increase your score.  
 
 ## Video
+**Note:** Video quality has been reduced to meet GitHub README file size limitations.
 
 https://github.com/user-attachments/assets/dfa9c62d-bd46-433c-85c2-9b423cb23f78
 
