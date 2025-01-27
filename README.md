@@ -7,6 +7,11 @@
 
 **Dragon Dash** is an exciting and dynamic endless 2D platformer game. The game features engaging mechanics, interactive environments, and challenging obstacles that keep players entertained while testing their skills.
 
+## Google Drive Link
+
+Note: Due to file size limitations on GitHub, the files are hosted on Google Drive. Access them through the following link:           
+https://drive.google.com/drive/folders/1g9_J7lXDnQj-AN0PMNpIDVR0TuXd0ZLb
+
 ## Features
 
 ### Core Gameplay
